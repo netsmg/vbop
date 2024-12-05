@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@mui/base": "^5.0.0-beta.64",
-    "firebase": "^11.0.2"
-  }
-}
